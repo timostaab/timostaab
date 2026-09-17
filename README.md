@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Check out my blog posts and concepts [here](https://github.com/timostaab/timostaab/wiki).
+
 <!--
 **timostaab/timostaab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
